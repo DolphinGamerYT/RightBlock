@@ -1,0 +1,10 @@
+main: com.dolphln.rightblock.MainUS
+name: RightBlock
+description: Block placing block challenge
+version: 1.0
+api-version: 1.16
+commands:
+  game:
+    description: Empieza o acaba el juego
+    aliases: [minigame,juego,minijuego,survival]
+    permission: rightblock.start
